@@ -141,12 +141,3 @@ function showText() { // Izmēģinu piegājienu ar funkciju. Te html dok'ā jāb
 		}
 };
 window.showText = showText; // Šis padara izveidoto funkciju redzamu globalajam scopam. Jo savādāk funkcija būtu definēta (redzama) tikai specifiskam scopam (tvērums jeb apgabals/ 'oblastj')
-
-
-
-//	let inputValue = textInput.value;
-//	textOutput.innerText = inputValue;
-
-
-// let inputValue = textInput.value;
-// textOutput.innerText = inputValue;
